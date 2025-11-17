@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "605896534867",
+    "project_id": "studentsattendence-f8a5f",
+    "storage_bucket": "studentsattendence-f8a5f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605896534867:android:268d2cb51aa84ea22acfa6",
+        "android_client_info": {
+          "package_name": "com.example.firebase_calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605896534867-jsd6a7rvcqlqungqos5e8hjffek2spv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2r8sAmJPCnQMpn20YvPuDoIhajHioRjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605896534867-jsd6a7rvcqlqungqos5e8hjffek2spv1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "605896534867-16ie4foqdrjv4uqv0g0dqg4efr6ak8jh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseCalculator"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605896534867:android:74fa1686277f45912acfa6",
+        "android_client_info": {
+          "package_name": "com.example.students_attendence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605896534867-jsd6a7rvcqlqungqos5e8hjffek2spv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2r8sAmJPCnQMpn20YvPuDoIhajHioRjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605896534867-jsd6a7rvcqlqungqos5e8hjffek2spv1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "605896534867-16ie4foqdrjv4uqv0g0dqg4efr6ak8jh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseCalculator"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605896534867:android:a7136bc9a1bb22d12acfa6",
+        "android_client_info": {
+          "package_name": "com.example.students_attendence_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605896534867-07ud1mhv5qvbmbc9hj83pbgp21j87blb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.students_attendence_app",
+            "certificate_hash": "fd3b3481750f8311bad85f7094c1870f1528a12e"
+          }
+        },
+        {
+          "client_id": "605896534867-jsd6a7rvcqlqungqos5e8hjffek2spv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2r8sAmJPCnQMpn20YvPuDoIhajHioRjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605896534867-jsd6a7rvcqlqungqos5e8hjffek2spv1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "605896534867-16ie4foqdrjv4uqv0g0dqg4efr6ak8jh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseCalculator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
