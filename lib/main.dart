@@ -27,6 +27,7 @@ void main() async {
   await Hive.initFlutter();
 
   // Initialize Notifications
+  var NotificationService;
   await NotificationService.initialize();
   await AwesomeNotifications().initialize(
     null,
